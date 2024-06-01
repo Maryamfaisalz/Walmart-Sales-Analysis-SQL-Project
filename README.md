@@ -5,6 +5,13 @@
 
 The primary objective is to analyze the sales data of a Walmart store to gain insights into various aspects such as sales performance, customer behavior, and product popularity. The aim is to use SQL queries to answer specific business questions that can help in strategic decision-making. The analysis includes understanding sales patterns by day and time, identifying best-selling products, evaluating customer types, and exploring the impact of different factors on sales and revenue.
 
+This project's data was obtained from the Kaggle Walmart Sales Forecasting Competition and it encompasses sales transactions from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively. The data contains 17 columns and 1000 rows:
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| invoice_id  | Invoice of the sales made     | VARCHAR(30)    |
+| branch    | Branch at which sales were made       | 	VARCHAR(5)     |
+
 
 **Approach:**
 
