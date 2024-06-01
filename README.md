@@ -10,6 +10,8 @@ The primary objective is to analyze the sales data of a Walmart store to gain in
 
 
 To solve these questions, a structured approach was adopted involving several key steps:
+
+
 **_1) Data Wrangling_**
 
 During this initial phase, the data is examined to detect any NULL or missing values, and strategies for data replacement are implemented to address and substitute these values effectively.
@@ -29,9 +31,30 @@ _**2) Feature Engineering:**_
 
 **Month Name:** A new column month_name is added to store the name of the month for each transaction.
 
-_**3. Exploratory Data Analysis (EDA)**_
+_**3) Exploratory Data Analysis (EDA)**_
 
 Conducting exploratory data analysis is essential to address the project's listed questions and objectives.
+
+
+_Generic Questions:_
+
+Queries are formulated to answer general business questions such as the number of unique cities, the cities in which each branch operates, and the number of unique product lines.
+
+_Product Analysis:_
+
+Several queries are designed to analyze product-related data, including identifying the most common payment method, the best-selling product line, and total revenue by month.
+Other queries focus on identifying the month with the largest Cost of Goods Sold (COGS), the product line with the largest revenue, and the city with the largest revenue.
+
+_Sales Analysis:_
+
+The focus shifts to analyzing sales data, including the number of sales made during different times of the day, the customer type bringing the most revenue, and the city with the highest VAT.
+Additional queries explore which customer type pays the most in VAT and the number of unique customer types and payment methods.
+
+_Customer Analysis:_
+
+Queries are used to understand customer behavior, such as identifying the most common customer type, the customer type that buys the most, and the gender distribution of customers.
+Further queries explore the time of day when customers give the most ratings, the day of the week with the best average ratings, and the day of the week with the best average ratings per branch.
+
 
 **Questions:**
 
