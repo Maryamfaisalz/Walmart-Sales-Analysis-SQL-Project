@@ -118,3 +118,6 @@ Further queries explore the time of day when customers give the most ratings, th
 9) Which day of the week has the best avg ratings?
 10) Which day of the week has the best average ratings per branch?
 
+**Insights from Dashboard**
+![Walmart Sales Dashboard](https://github.com/Maryamfaisalz/Walmart-Sales-Analysis-SQL-Project/assets/79410940/e5c033ec-4388-4691-8b7e-68082e5a6123)
+
