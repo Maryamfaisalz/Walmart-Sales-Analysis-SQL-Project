@@ -120,6 +120,8 @@ Further queries explore the time of day when customers give the most ratings, th
 
 **Dashboard**
 
+_*This is an interactive Excel Dashboard*_
+
 ![image](https://github.com/Maryamfaisalz/Walmart-Sales-Analysis-SQL-Project/assets/79410940/23eddc8b-5282-4425-9dde-ccf8baec1781)
 
 
